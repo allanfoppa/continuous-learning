@@ -5,6 +5,7 @@
 **Focus:** Code level principles
 
 **Key Topics/Languages:**  
+    OOP (Object-Oriented Programming)  
 	SOLID principles  
 	Clean Code  
 
