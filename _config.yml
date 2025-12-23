@@ -1,7 +1,8 @@
 title: Continuous Learning Journey
 description: My 2026 learning path covering OOP, Architecture, Design Patterns, and Backend Development
 baseurl: "/continuous-learning"
-url: "https://github.com/allanfoppa"
+url: "https://allanfoppa.github.io"
+author: Allan Foppa
 
 theme: minima
 
@@ -10,6 +11,10 @@ minima:
 
 github_username: allanfoppa
 linkedin_username: allanfoppa
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
 
 # navigation menu order
 header_pages:
@@ -33,7 +38,7 @@ defaults:
       path: ""
       type: "year2026"
     values:
-      layout: "page"
+      layout: "month"
 
 # Exclude files from processing
 exclude:
