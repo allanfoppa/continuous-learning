@@ -16,5 +16,5 @@ permalink: /2026/january/
 
 ### Project link:
 
-[Link to project will be added]
+[Code principles](https://github.com/allanfoppa/code-principles)
 
