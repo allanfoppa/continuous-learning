@@ -8,4 +8,12 @@
     </div>
   </div>
 
+  <script>
+    // Add target="_blank" to all social media links
+    document.querySelectorAll('.social-media-list a').forEach(link => {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer');
+    });
+  </script>
+
 </footer>
