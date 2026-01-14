@@ -57,7 +57,7 @@
 
 Screenshots             |  Screenshots
 :-------------------------:|:-------------------------:
-![home.png](../.github/2025/mobile-with-flutter/home.png)  |  ![choose-a-subject.png](../.github/2025/mobile-with-flutter/choose-a-subject.png)
-![choose-game-mode.png](../.github/2025/mobile-with-flutter/choose-game-mode.png) | ![game-tip.png](../.github/2025/mobile-with-flutter/game-tip.png)
-![bad-game-in-progress.png](../.github/2025/mobile-with-flutter/bad-game-in-progress.png) | ![you-lose.png](../.github/2025/mobile-with-flutter/you-lose.png)
-![you-win.png](../.github/2025/mobile-with-flutter/you-win.png)
+![home.png](../../../.github/2025/mobile-with-flutter/home.png)  |  ![choose-a-subject.png](../../../.github/2025/mobile-with-flutter/choose-a-subject.png)
+![choose-game-mode.png](../../../.github/2025/mobile-with-flutter/choose-game-mode.png) | ![game-tip.png](../../../.github/2025/mobile-with-flutter/game-tip.png)
+![bad-game-in-progress.png](../../../.github/2025/mobile-with-flutter/bad-game-in-progress.png) | ![you-lose.png](../../../.github/2025/mobile-with-flutter/you-lose.png)
+![you-win.png](../../../.github/2025/mobile-with-flutter/you-win.png)
