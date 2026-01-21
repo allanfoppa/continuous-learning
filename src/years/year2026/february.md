@@ -19,7 +19,9 @@ permalink: /2026/february/
 - Apply layered architecture in a small practical project
 - Implement dependency inversion at architectural level
 
-### Project link:
+### Projects links:
 
-[Link to project will be added]
+[Software Architecture exploration](https://github.com/allanfoppa/software-architecture-exploration)  
+[Foppa Bank](https://github.com/allanfoppa/foppa-bank)
+
 
