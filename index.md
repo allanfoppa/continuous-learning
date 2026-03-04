@@ -40,9 +40,4 @@ Welcome to my structured learning path for 2026! This repository tracks my progr
 
 ## About This Journey
 
-This learning path is designed to build a solid foundation in:
-- Software design principles (SOLID, Clean Code)
-- Architectural patterns (Hexagonal, Cross Architecture)
-- Modern backend development (NestJS, APIs)
-- DevOps practices (CI/CD, Monitoring)
-- Full-stack development fundamentals
+This learning path is designed to build a solid foundation in the areas covered by my studies and to apply the knowledge gained during the "Payment Methods Workshop with a focus on Open Finance" at the Eldorado Research Institute.
