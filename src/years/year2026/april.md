@@ -4,11 +4,12 @@ title: April
 permalink: /2026/april/
 ---
 
-> Preparing for real-world backend development with modern testing practices and AI assistance.
+> Preparing for real-world development with modern testing practices and AI assistance.
 
 ## Focus: Testing & Quality Assurance with AI
 
 ### Key Topics/Languages:
+
 - Unit Testing
 - Integration Testing
 - Test Doubles (Mocks, Stubs, Fakes)
@@ -18,6 +19,7 @@ permalink: /2026/april/
 - Prompt engineering for test cases
 
 ### Some Goals:
+
 - Write tests for previous study projects
 - Use AI tools to generate and improve test coverage
 - Leverage AI for identifying edge cases and test scenarios
@@ -26,5 +28,6 @@ permalink: /2026/april/
 
 ### Project link:
 
-[Link to project will be added]
-
+[AI QA Testing Hub](https://github.com/allanfoppa/ai-qa-testing-hub){:target="_blank" rel="noopener noreferrer"}
+[Rick and Morty Graphs and Stuff](https://github.com/allanfoppa/rick-and-morty-graphs-and-stuff){:target="_blank" rel="noopener noreferrer"}
+[AI Text Summarizer App](https://github.com/allanfoppa/ai-text-summarizer-app){:target="_blank" rel="noopener noreferrer"}
