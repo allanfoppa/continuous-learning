@@ -9,6 +9,7 @@ permalink: /2026/july/
 ## Focus: AI Integration & MCP
 
 ### Key Topics/Languages:
+
 - Model Context Protocol (MCP)
 - Building MCP servers
 - Connecting AI to external tools/APIs
@@ -16,6 +17,7 @@ permalink: /2026/july/
 - AI-powered backend features
 
 ### Some Goals:
+
 - Understand MCP architecture and use cases
 - Build an MCP server for your backend project
 - Integrate MCP with AI assistants (Claude, etc.)
@@ -23,5 +25,4 @@ permalink: /2026/july/
 
 ### Project link:
 
-[Link to project will be added]
-
+- [Link to project will be added]

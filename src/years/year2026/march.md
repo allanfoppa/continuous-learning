@@ -9,15 +9,16 @@ permalink: /2026/march/
 ## Focus: Design Patterns
 
 ### Key Topics/Languages:
+
 - Creational Patterns (Factory)
 - Structural Patterns (Adapter, Decorator)
 - Behavioral Patterns (Strategy)
 
 ### Some Goals:
+
 - Recognize when and how to apply common design patterns
 - Refactor one of my study project using appropriate patterns
 
 ### Project link:
 
 - [Design Patterns](https://github.com/allanfoppa/design-patterns){:target="_blank" rel="noopener noreferrer"}
-

@@ -9,6 +9,7 @@ permalink: /2026/november/
 ## Focus: Revision
 
 ### Key Topics/Languages:
+
 - Review SOLID principles and Clean Code (Jan)
 - Review Architecture patterns (Feb)
 - Review Design Patterns (Mar)
@@ -21,6 +22,7 @@ permalink: /2026/november/
 - Review Frontend patterns (Oct)
 
 ### Some Goals:
+
 - Refactor previous projects with improved understanding
 - Identify gaps in knowledge and fill them
 - Build a comprehensive project combining all topics

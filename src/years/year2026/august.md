@@ -9,14 +9,15 @@ permalink: /2026/august/
 ## Focus: CI/CD & DevOps Fundamentals
 
 ### Key Topics/Languages:
+
 - GitHub Actions (or Jenkins CI)
 - Automated Testing in pipelines
 - Environment management (dev, staging, prod)
 - Code quality checks (linting, formatting)
 - Deployment strategies (basic)
 
-
 ### Some Goals:
+
 Create workflow files (.github/workflows/*.yml) (push, pull - request, scheduled)
 - Define jobs and steps for build/test/deploy
 - Use marketplace actions (checkout, setup-node, etc.)
@@ -35,5 +36,4 @@ Create workflow files (.github/workflows/*.yml) (push, pull - request, scheduled
 
 ### Project link:
 
-[Link to project will be added]
-
+- [Link to project will be added]

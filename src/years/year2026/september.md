@@ -9,6 +9,7 @@ permalink: /2026/september/
 ## Focus: Observability & Monitoring
 
 ### Key Topics/Languages:
+
 - Logging (structured logging, log levels)
 - Metrics & Monitoring (Prometheus, Grafana)
 - Distributed Tracing (OpenTelemetry basics)
@@ -17,6 +18,7 @@ permalink: /2026/september/
 - Application Performance Monitoring (APM)
 
 ### Some Goals:
+
 - Implement structured logging in your NestJS application
 - Set up metrics collection and visualization
 - Create dashboards for key application metrics
@@ -27,5 +29,4 @@ permalink: /2026/september/
 
 ### Project link:
 
-[Link to project will be added]
-
+- [Link to project will be added]

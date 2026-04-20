@@ -9,12 +9,14 @@ permalink: /2026/june/
 ## Focus: Backend Framework & Web APIs
 
 ### Key Topics/Languages:
+
 - NestJs
 - RESTful API implementation
 - Docker & Containerization
 - API security basics (CORS, authentication basics)
 
 ### Some Goals:
+
 - Build a complete REST API applying Hexagonal Architecture
 - Implement proper layering (Controllers, Services, Repositories)
 - Apply design patterns learned in March
@@ -28,4 +30,3 @@ permalink: /2026/june/
 ### Project link:
 
 [Link to project will be added]
-

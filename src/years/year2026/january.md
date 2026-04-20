@@ -6,15 +6,16 @@ permalink: /2026/january/
 
 ## Focus: Code level principles
 
-### Key Topics
+### Key Topics:
+
 - Object-Oriented Programming (OOP)
 - Clean Code principles
 - SOLID principles
 
 ### Some Goals:
+
 - Understand and apply in some examples the principles.
 
 ### Project link:
 
 - [Code principles](https://github.com/allanfoppa/code-principles){:target="_blank" rel="noopener noreferrer"}
-

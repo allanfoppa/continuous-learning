@@ -9,6 +9,7 @@ permalink: /2026/october/
 ## Focus: Frontend Architecture & Design Patterns
 
 ### Key Topics/Languages:
+
 - React.js
 - Modern JavaScript/TypeScript (ES6+)
 - Component Design Patterns (Container/Presentational, Compound Components)
@@ -19,6 +20,7 @@ permalink: /2026/october/
 - API consumption & HTTP clients best pratices
 
 ### Some Goals:
+
 - Build a frontend application consuming your backend APIs
 - Apply Atomic Design to component structure (atoms, molecules, organisms)
 - Implement BEM or SMACSS for maintainable CSS
@@ -30,5 +32,4 @@ permalink: /2026/october/
 
 ### Project link:
 
-[Link to project will be added]
-
+- [Link to project will be added]
