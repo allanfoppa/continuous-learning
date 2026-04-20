@@ -28,7 +28,7 @@ permalink: /2026/april/
 
 ### Project link:
 
-[AI QA Testing Hub](https://github.com/allanfoppa/ai-qa-testing-hub){:target="_blank" rel="noopener noreferrer"}
-[Rick and Morty Graphs and Stuff](https://github.com/allanfoppa/rick-and-morty-graphs-and-stuff){:target="_blank" rel="noopener noreferrer"}
-[AI Text Summarizer App](https://github.com/allanfoppa/ai-text-summarizer-app){:target="_blank" rel="noopener noreferrer"}
-[It's over 9000](https://github.com/allanfoppa/it-is-over-9000){:target="_blank" rel="noopener noreferrer"}
+- [AI QA Testing Hub](https://github.com/allanfoppa/ai-qa-testing-hub){:target="_blank" rel="noopener noreferrer"}
+- [Rick and Morty Graphs and Stuff](https://github.com/allanfoppa/rick-and-morty-graphs-and-stuff){:target="_blank" rel="noopener noreferrer"}
+- [AI Text Summarizer App](https://github.com/allanfoppa/ai-text-summarizer-app){:target="_blank" rel="noopener noreferrer"}
+- [It's over 9000](https://github.com/allanfoppa/it-is-over-9000){:target="_blank" rel="noopener noreferrer"}

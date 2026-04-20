@@ -21,7 +21,5 @@ permalink: /2026/february/
 
 ### Projects links:
 
-[Software Architecture exploration](https://github.com/allanfoppa/software-architecture-exploration){:target="_blank" rel="noopener noreferrer"}  
-[Foppa Bank](https://github.com/allanfoppa/foppa-bank){:target="_blank" rel="noopener noreferrer"}
-
-
+- [Software Architecture exploration](https://github.com/allanfoppa/software-architecture-exploration){:target="_blank" rel="noopener noreferrer"}
+- [Foppa Bank](https://github.com/allanfoppa/foppa-bank){:target="_blank" rel="noopener noreferrer"}

@@ -19,5 +19,5 @@ permalink: /2026/march/
 
 ### Project link:
 
-[Design Patterns](https://github.com/allanfoppa/design-patterns){:target="_blank" rel="noopener noreferrer"}  
+- [Design Patterns](https://github.com/allanfoppa/design-patterns){:target="_blank" rel="noopener noreferrer"}
 
