@@ -12,7 +12,7 @@ permalink: /2026/january/
 - Clean Code principles
 - SOLID principles
 
-### Some Goals:
+### Hands-on Exploration
 
 - Understand and apply in some examples the principles.
 

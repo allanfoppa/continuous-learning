@@ -4,25 +4,29 @@ title: July
 permalink: /2026/july/
 ---
 
-> Building AI-powered backend features using Model Context Protocol.
+> Applying all previous knowledge (SOLID, Architecture, Patterns, Testing) in a real backend framework.
 
-## Focus: AI Integration & MCP
+## Focus: Backend Framework & Web APIs
 
-### Key Topics/Languages:
+### Topics to Explore
 
-- Model Context Protocol (MCP)
-- Building MCP servers
-- Connecting AI to external tools/APIs
-- MCP clients and server architecture
-- AI-powered backend features
+- NestJs
+- RESTful API implementation
+- Docker & Containerization
+- API security basics (CORS, authentication basics)
 
-### Some Goals:
+### Hands-on Exploration
 
-- Understand MCP architecture and use cases
-- Build an MCP server for your backend project
-- Integrate MCP with AI assistants (Claude, etc.)
-- Create practical AI integrations (database queries, file - operations, etc.)
+- Build a complete REST API applying Hexagonal Architecture
+- Implement proper layering (Controllers, Services, Repositories)
+- Apply design patterns learned in March
+- Write comprehensive tests for the API
+- Use AI to accelerate boilerplate code generation
+- Authentication & Authorization (JWT, OAuth)
+- Message Queues/Async Processing (RabbitMQ, Redis)
+- Caching strategies (Redis)
+- API versioning & Rate limiting
 
 ### Project link:
 
-- [Link to project will be added]
+[Link to project will be added]

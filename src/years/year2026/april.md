@@ -8,7 +8,7 @@ permalink: /2026/april/
 
 ## Focus: Testing & Quality Assurance with AI
 
-### Key Topics/Languages:
+### Topics to Explore
 
 - Unit Testing
 - Integration Testing
@@ -18,7 +18,7 @@ permalink: /2026/april/
 - AI for code review and quality checks
 - Prompt engineering for test cases
 
-### Some Goals:
+### Hands-on Exploration
 
 - Write tests for previous study projects
 - Use AI tools to generate and improve test coverage

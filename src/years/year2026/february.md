@@ -8,14 +8,14 @@ permalink: /2026/february/
 
 ## Focus: Software Architecture
 
-### Key Topics/Languages:
+### Topics to Explore
 
 - Clean Architecture
 - Onion Architecture
 - Hexagonal Architecture (Ports & Adapters)
 - Dependency Injection
 
-### Some Goals:
+### Hands-on Exploration
 
 - Understand architectural patterns and their differences
 - Apply layered architecture in a small practical project

@@ -8,7 +8,7 @@ permalink: /2026/may/
 
 ## Focus: Distributed Systems Theory & Database Fundamentals
 
-### Key Topics/Languages:
+### Topics to Explore
 
 - CAP Theorem (Consistency, Availability, Partition Tolerance)
 - PACELC Theorem (extending CAP with Latency)
@@ -20,7 +20,7 @@ permalink: /2026/may/
 - CQRS (very relevant for NestJS)
 - Read vs Write separation
 
-### Some Goals:
+### Hands-on Exploration
 
 - Implement PostgreSQL for consistent transactions
 - Implement MongoDB for high availability scenarios

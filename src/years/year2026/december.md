@@ -8,7 +8,7 @@ permalink: /2026/december/
 
 ## Focus: Future Trends & 2027 Planning
 
-### Some Goals:
+### Hands-on Exploration
 
 - Research some emerging technologies
 - Evaluate which trends align with career goals
