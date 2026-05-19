@@ -29,4 +29,4 @@ permalink: /2026/may/
 
 ### Project link:
 
-- [Link to project will be added]
+- [Favorites with CQRS](https://github.com/allanfoppa/favorites-with-cqrs){:target="_blank" rel="noopener noreferrer"}
