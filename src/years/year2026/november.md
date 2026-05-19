@@ -25,6 +25,6 @@ permalink: /2026/november/
 
 - Refactor previous projects with improved understanding
 - Identify gaps in knowledge and fill them
-- Document learnings and create reference materials [My Repositories Map](https://allanfoppa.github.io/my-repository-map/){:target="_blank" rel="noopener noreferrer"}
+- Document learnings and create reference materials
 - Review and improve code quality across all projects
 - Prepare Github pages portfolio projects for showcasing
