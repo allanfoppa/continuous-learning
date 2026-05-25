@@ -13,9 +13,9 @@ months:
   - name: may
     topic: Distributed Systems & Database Fundamentals
   - name: june
-    topic: Backend Framework (NestJS) & Web APIs
-  - name: july
     topic: AI Integration & MCP
+  - name: july
+    topic: Backend Framework (NestJS) & Web APIs
   - name: august
     topic: CI/CD & DevOps
   - name: september
