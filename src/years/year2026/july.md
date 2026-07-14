@@ -18,15 +18,12 @@ permalink: /2026/july/
 ### Hands-on Exploration
 
 - Build a complete REST API applying Hexagonal Architecture
-- Implement proper layering (Controllers, Services, Repositories)
 - Apply design patterns learned in March
-- Write comprehensive tests for the API
 - Use AI to accelerate boilerplate code generation
 - Authentication & Authorization (JWT, OAuth)
-- Message Queues/Async Processing (RabbitMQ, Redis)
 - Caching strategies (Redis)
 - API versioning & Rate limiting
 
 ### Project link:
 
-[Link to project will be added]
+- [Foppa Bank](https://github.com/allanfoppa/foppa-bank){:target="_blank" rel="noopener noreferrer"}
