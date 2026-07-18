@@ -27,3 +27,4 @@ permalink: /2026/july/
 ### Project link:
 
 - [Foppa Bank](https://github.com/allanfoppa/foppa-bank){:target="_blank" rel="noopener noreferrer"}
+- [Dungeon Gatekeeper](https://github.com/allanfoppa/dungeon-gatekeeper){:target="_blank" rel="noopener noreferrer"}
