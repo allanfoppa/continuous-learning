@@ -36,4 +36,12 @@ permalink: /2026/august/
 
 ### Project link:
 
-- [Link to project will be added]
+- [Continuos Learning](https://github.com/allanfoppa/continuous-learning/tree/main/.github/workflows){:target="_blank" rel="noopener noreferrer"}
+- [GeoQuest](https://github.com/allanfoppa/geoquest/blob/main/.github/workflows/ci.yml){:target="_blank" rel="noopener noreferrer"}
+- [Code Principles](https://github.com/allanfoppa/code-principles/tree/main/.github/workflows){:target="_blank" rel="noopener noreferrer"}
+- [MCP Weather](https://github.com/allanfoppa/mcp-weather/tree/main/.github/workflows){:target="_blank" rel="noopener noreferrer"}
+- [My Dev Log](https://github.com/allanfoppa/my-dev-log/blob/main/.github/workflows/deploy.yml){:target="_blank" rel="noopener noreferrer"}
+- [AI QA Testing Hub](https://github.com/allanfoppa/ai-qa-testing-hub/tree/main/.github){:target="_blank" rel="noopener noreferrer"}
+- [AI Text Summarizer APP](https://github.com/allanfoppa/ai-text-summarizer-app/tree/main/.github/workflows){:target="_blank" rel="noopener noreferrer"}
+- [Rick and Morty graphs and stuff](https://github.com/allanfoppa/rick-and-morty-graphs-and-stuff/tree/main/.github/workflows){:target="_blank" rel="noopener noreferrer"}
+- [Design Patterns](https://github.com/allanfoppa/design-patterns/blob/main/.github/workflows/ci.yaml){:target="_blank" rel="noopener noreferrer"}
